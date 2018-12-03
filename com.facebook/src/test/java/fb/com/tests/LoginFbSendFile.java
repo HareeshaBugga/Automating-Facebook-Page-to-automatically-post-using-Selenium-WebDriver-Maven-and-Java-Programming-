@@ -65,33 +65,3 @@ public class LoginFbSendFile {
 }
 
 
-
-
-
-//this code is for sending messages. 
-
-
-//@Test(priority = 2)
-//public void findingName() {
-//	spage.searchName("Kaka Richaard");
-//}
-//
-//@Test(priority = 3)
-//public void clickOnElement() throws InterruptedException {
-//	spage.selectName();
-//}
-//
-//@Test(priority = 4)
-//public void clickOnName()throws InterruptedException{
-//	spage.selectProfile();
-//}
-
-//@Test(priority = 5)
-//public void clickOnProf()throws InterruptedException{
-//	spage.clickOnProfile();
-//}
-//
-//@Test(priority = 6)
-//public void clickOnName1()throws InterruptedException{
-//	spage.clickOnMessageButton();
-//	
